@@ -62,13 +62,13 @@ Este projeto está em contante atualização, o propósito é deixar a amostra m
 # Analisando o tempo de reprodução
 No grafico de Regressão linear a baixo podemos ver que existe sim uma tendencia de redução no tempo de reprodução das músuca ao longo do ano.
 
-![regressao](https://github.com/Francisco-Libanio/Analise_Musical/assets/75691960/885e65a4-de3e-41c9-a8db-3996efef6292)
+![regressao](https://github.com/Francisco-Libanio/Analise_sobre_o_tempo_das_musicas/assets/75691960/ffe42648-b23b-425e-a643-dcbee1cd1654)
 
 Conseguimos evidenciar melhor essa tendencia usando um gráfico de linha com a média de tempo das músicas ao longo dos anos
 
-![Linha-media](https://github.com/Francisco-Libanio/Analise_Musical/assets/75691960/c82211ea-d635-45ae-af66-fe3c46dc747c)
+![Linha-media](https://github.com/Francisco-Libanio/Analise_sobre_o_tempo_das_musicas/assets/75691960/3986c39a-bca2-4c54-a848-3d9292380b6e)
 
 No gráfico a baixo temos as maiores e menores músicas de cada ano, um caso interessante é que as maiores músicas dos anos de 2020, 2021, 2022 e 2023 são pot pourri que é a Junção de mais de duas músicas em uma mesma execução.
 Observamos também uma tendencia de queda no tempo das menores músicas de cada ano.
 
-![maiores_e_menores](https://github.com/Francisco-Libanio/Analise_Musical/assets/75691960/a3dad9c3-c078-4b82-afe5-ee7ee3ff1b03)
+![maiores_e_menores](https://github.com/Francisco-Libanio/Analise_sobre_o_tempo_das_musicas/assets/75691960/42cd0643-0c60-4bc7-a217-a513a9a00575)
